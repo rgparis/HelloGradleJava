@@ -1,0 +1,2 @@
+# HelloGradleJava
+standard gradle app
